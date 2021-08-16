@@ -16,7 +16,6 @@
    <a href="https://github.com/EsdrasAslc">
      <img height="150rem" alt="Esdras Carneiro GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EsdrasAslc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
      <img height="150rem" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasAslc&layout=compact&langs_count=7&theme=radical"/>
->
   </a>
  </p>
 
