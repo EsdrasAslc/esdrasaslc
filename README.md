@@ -5,7 +5,7 @@
  <br>
  <ul>
   <li style="font-size: 15px"> 🌿 Aprendendo Dev Web
-  <li style="font-size: 15px"> 🌵 Interesses: Javascript, React.js, Node.js, Typescript, Python, HTML e CSS
+  <li style="font-size: 15px"> 🌵 Interesses: Javascript, React.js, Node.js, Typescript, Python, Lua, HTML e CSS
   <li style="font-size: 15px"> 🌴 Mais informações em meu <a href="https://esdrasaslc.github.io/meu-site/">site</a>
   <br>
 </ul>
