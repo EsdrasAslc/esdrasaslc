@@ -44,9 +44,7 @@
  <br>
 </div>
  <hr>
-<div> 
- <p>README Inspirado em (<a href="https://github.com/arturjoaquim" target="_blank">Art</a>)</p>
- </div>
+
 
 
 
