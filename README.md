@@ -14,13 +14,13 @@
  <div>
  <p align="center">
    <a href="https://github.com/EsdrasAslc">
-     <img height="150rem" alt="Esdras Carneiro GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EsdrasAslc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+     <!-- <img height="150rem" alt="Esdras Carneiro GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EsdrasAslc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
      <img height="150rem" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasAslc&layout=compact&langs_count=7&theme=radical"/>
   </a>
  </p>
 
  
-<div>
+<!-- <div>
  <h2>Skills 💡</h2>
  <p align="center">
   <img align="center" alt="Esdras-Js" height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,13 +29,13 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Esdras-CSS" height="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+</div> -->
  <div>
  <h2>Contate-me 📲</h2>
  <br>
  <p align="center">
-  <a href="https://www.instagram.com/esdras.caarneiro/" target="_blank"><img align="center" height="40"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <a href="https://www.instagram.com/esdras.caarneiro/" target="_blank"><img align="center" height="40"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href = "mailto:esdras.aslc2@gmail.com"><img align="center" height="40"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/esdras-carneiro-3a7800210/" target="_blank"><img align="center" height="40"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
